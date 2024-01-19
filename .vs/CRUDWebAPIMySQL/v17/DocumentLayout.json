@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|c:\\users\\andre\\documents\\programming\\crudwebapimysql\\crudwebapimysql\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|solutionrelative:crudwebapimysql\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|c:\\users\\andre\\documents\\programming\\crudwebapimysql\\crudwebapimysql\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|solutionrelative:crudwebapimysql\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|c:\\users\\andre\\documents\\programming\\crudwebapimysql\\crudwebapimysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|solutionrelative:crudwebapimysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|c:\\users\\andre\\documents\\programming\\crudwebapimysql\\crudwebapimysql\\entities\\dbuserscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|solutionrelative:crudwebapimysql\\entities\\dbuserscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|c:\\users\\andre\\documents\\programming\\crudwebapimysql\\crudwebapimysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3317BE69-EE38-4332-8D7B-4FE1FE14933E}|CRUDWebAPIMySQL\\CRUDWebAPIMySQL.csproj|solutionrelative:crudwebapimysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CRUDWebAPIMySQL\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CRUDWebAPIMySQL\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwGEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T02:31:42.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Entities\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CRUDWebAPIMySQL\\Entities\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Entities\\UserDTO.cs",
+              "RelativeToolTip": "CRUDWebAPIMySQL\\Entities\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T02:30:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDWebAPIMySQL\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Program.cs",
+              "RelativeToolTip": "CRUDWebAPIMySQL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T02:27:07.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDWebAPIMySQL\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\appsettings.json",
+              "RelativeToolTip": "CRUDWebAPIMySQL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-19T02:26:04.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbUsersContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Entities\\DbUsersContext.cs",
+              "RelativeDocumentMoniker": "CRUDWebAPIMySQL\\Entities\\DbUsersContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Programming\\CRUDWebAPIMySQL\\CRUDWebAPIMySQL\\Entities\\DbUsersContext.cs",
+              "RelativeToolTip": "CRUDWebAPIMySQL\\Entities\\DbUsersContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T02:25:15.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+cvvTG784I0udyPHS+Ij8JRKTct1zQQ3TUqKFkTnoVg=",
+  "Source": "CRUDWebAPIMySQL",
+  "BasePath": "_content/CRUDWebAPIMySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
